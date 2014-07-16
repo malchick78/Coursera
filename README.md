@@ -1,4 +1,4 @@
 Coursera
 ========
 
-Data science and other such geekery
+Data Science and other such geekery
